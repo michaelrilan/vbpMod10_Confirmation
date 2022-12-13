@@ -5,7 +5,7 @@
         name_val = namee.Text
         fave_num_val = fave_num.Text
 
-        recieved.Text = "Information Saved!!"
+        recieved.Text = "Information Saved!!!"
         name_out.Text = "Name: " & name_val
         fave_num_out.Text = "Favorite Number: " & fave_num_val
 
